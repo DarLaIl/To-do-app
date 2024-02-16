@@ -3,7 +3,7 @@ body {
     display: flex;
     align-items: center;
     flex-direction: column;
-    background-image: url(wall.jpg);
+    background-image: url(img/wall.jpg);
     background-size: cover;
     background-position: fixed;
     height: 100%;
