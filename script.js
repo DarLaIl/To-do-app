@@ -24,7 +24,7 @@ btnAdd.addEventListener('click', () => {
     // наполняем новые элементы к новой задаче
 
     check.innerHTML = '&#10720';
-    deleteTask.innerHTML = '<img src="trash.png" alt="trash" width="30px" cursor="pointer">'
+    deleteTask.innerHTML = '<img src="img/trash.png" alt="trash" width="30px" cursor="pointer">'
     summary.innerText = inputField.value;
         if (inputField.value.length === 0) {
             return false};
